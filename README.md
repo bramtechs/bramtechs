@@ -1,5 +1,5 @@
 ### Hi there 👋
-I do a variety of things, mostly game-programming in LibGDX (Kotlin) or Unity.
+I do a variety of things, mostly game-programming in LibGDX (Kotlin) and Unity.
 
 Still makes websites the old fashioned way.
 
