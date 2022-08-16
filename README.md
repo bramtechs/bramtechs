@@ -1,4 +1,5 @@
 ### Hi there 👋
-I mostly do Java game-programming, but I'm also interested in learning Go and Rust.
+I do a variety of things, mostly game-programming in LibGDX (Kotlin) or Unity.
+Still makes websites the old fashioned way.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bramtechs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
