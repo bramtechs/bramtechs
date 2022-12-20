@@ -1,2 +1,2 @@
 ### Hi there 👋
-I write code lol
+I write code and such.
