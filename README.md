@@ -1,5 +1,5 @@
 ### Hi there 👋
 I write code and such.
 
-#### ❤️ Favorite languages
+#### Favorite languages ❤️
 C, D, Java
