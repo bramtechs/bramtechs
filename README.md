@@ -2,4 +2,4 @@
 I write code and such.
 
 #### Favorite languages ❤️
-C, D, Java
+C, D, ~~*Java*~~ **Typescript**
