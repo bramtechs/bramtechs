@@ -12,3 +12,4 @@ Founder of [Doomhowl Interactive](https://github.com/orgs/Doomhowl-Interactive/r
 - Unity DOTS
 - Tauri (Rust)
 - Lua
+- Go
