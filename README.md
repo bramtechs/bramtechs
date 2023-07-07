@@ -5,8 +5,8 @@ Founder of [Doomhowl Interactive](https://github.com/orgs/Doomhowl-Interactive/r
 
 #### Favorite languages ❤️
 1. Typescript
-2. Java --> C#
-3. D
+2. Java
+3. C++
 
 #### Things I want to learn 📚
 - Unity DOTS
