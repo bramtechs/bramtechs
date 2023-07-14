@@ -8,8 +8,6 @@ Founder of [Doomhowl Interactive](https://github.com/orgs/Doomhowl-Interactive/r
 2. C++
 3. Java
 
-#### Things I want to learn 📚
-- Unity DOTS
-- Tauri (Rust)
-- Lua
-- Go
+#### Tech I want to learn 📚
+- Tauri + Rust
+- OpenGL or DirectX
