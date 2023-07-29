@@ -1,5 +1,5 @@
 ### Hi there 👋
-I write code and such.
+I write games and such.
 
 Founder of [Doomhowl Interactive](https://github.com/Doomhowl-Interactive)
 
