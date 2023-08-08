@@ -5,7 +5,7 @@ Founder of [Doomhowl Interactive](https://github.com/Doomhowl-Interactive) (excl
 
 #### Favorite languages ❤️
 1. Typescript
-2. C
+2. C++
 3. Java
 
 #### Tech I want to learn 📚
