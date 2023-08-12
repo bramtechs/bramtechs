@@ -1,7 +1,7 @@
 ### Hi there 👋
 I write games and such.
 
-Founder of [Doomhowl Interactive](https://github.com/Doomhowl-Interactive) (exclusively commiting here for now)
+Founder of [Doomhowl Interactive](https://doomhowl-interactive.com)
 
 #### Favorite languages ❤️
 1. Typescript
