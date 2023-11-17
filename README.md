@@ -4,11 +4,9 @@ I write games and such.
 Founder of [Doomhowl Interactive](https://doomhowl-interactive.com)
 
 #### Favorite languages ❤️
-1. Typescript
+1. Java
 2. C++
-3. Java
+3. JavaScript
 
-#### Tech I want to learn 📚
-- Tauri + Rust
-- OpenGL or DirectX
-- Go
+#### Things I want to learn 📚
+- Professional game(-engine) development
