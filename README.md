@@ -6,7 +6,7 @@ Founder of [Doomhowl Interactive](https://doomhowl-interactive.com)
 #### Favorite languages ❤️
 1. Java
 2. C++
-3. JavaScript
+3. TypeScript
 
 #### Things I want to learn 📚
 - Professional game(-engine) development
