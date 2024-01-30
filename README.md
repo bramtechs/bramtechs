@@ -8,8 +8,8 @@ Only pinned projects are finished or in development.
 
 #### Favorite languages ❤️
 1. Java
-2. C++ (or DLang once in a while)
-3. TypeScript
+2. Haxe
+3. C++
 
 #### Things I want to learn 📚
 - Professional game(-engine) development
