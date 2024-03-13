@@ -7,9 +7,9 @@ This Github is mostly a graveyard of unfinished projects.<br/>
 Only pinned projects are finished or in development.
 
 #### Favorite languages ❤️
-1. Java
-2. Haxe
-3. C++
+1. C++
+2. Java
+3. Haxe
 
 #### Things I want to learn 📚
 - Professional game(-engine) development
