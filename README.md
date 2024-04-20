@@ -9,7 +9,6 @@ Only pinned projects are finished or in development.
 ## Familiar languages
 - C++
 - Java
-- Go
 - JS/TS
 
 ## Things I want to learn 📚
