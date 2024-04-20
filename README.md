@@ -1,4 +1,4 @@
-# 🐺🌕 [Doomhowl Interactive](https://doomhowl-interactive.com)
+# 🐺🌕 Hello world!
 
 This Github is mostly a graveyard of unfinished projects.<br/>
 Only pinned projects are finished or in development.
