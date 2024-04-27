@@ -13,3 +13,4 @@ Only pinned projects are finished or in development.
 
 ## Things I want to learn 📚
 - Professional game(-engine) development
+- Integrating Nix(OS) into my workflow
