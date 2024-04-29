@@ -11,4 +11,3 @@ Software and game developer trying to make something...
 
 ## Things I want to learn 📚
 - Professional game(-engine) development
-- Integrating Nix(OS) into my workflow
