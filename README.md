@@ -11,5 +11,4 @@ Software and game developer trying to create things.
 
 ## Things I want to learn 📚
 - Professional game(-engine) development
-- Functional programming (OCaml)
-- Rust
+- OCaml, Rust, Jai
