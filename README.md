@@ -7,7 +7,7 @@ Software and game developer trying to create things.
 ## Familiar languages
 - C++
 - Java
-- JS/TS
+- JavaScript/TypeScript
 
 ## Things I want to learn 📚
 - Professional game(-engine) development
