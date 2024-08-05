@@ -12,4 +12,4 @@ Software and game developer trying to create things.
 ## Things I want to learn 📚
 - Professional game(-engine) development
 - Functional programming
-- Using Nix as a build system + Nix flakes
+- Using Nix as build system + Nix flakes
