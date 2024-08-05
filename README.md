@@ -11,4 +11,5 @@ Software and game developer trying to create things.
 
 ## Things I want to learn 📚
 - Professional game(-engine) development
-- OCaml, Rust, Jai
+- Functional programming
+- Using Nix as a build system + Nix flakes
