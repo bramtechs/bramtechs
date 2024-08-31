@@ -13,3 +13,6 @@ Software and game developer trying to create things.
 - Professional game(-engine) development
 - Functional programming
 - Using Nix as build system + Nix flakes
+
+## Contact
+- Discord: brambasiel
