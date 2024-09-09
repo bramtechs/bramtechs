@@ -10,8 +10,7 @@
 
 ## Things I want to learn 📚
 - Professional game(-engine) development
-- Functional programming
-- Using Nix as build system + Nix flakes
+- OpenGL, maybe Vulkan
 
 ## Contact
 - Discord: brambasiel
