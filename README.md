@@ -10,7 +10,6 @@
 
 ## Things I want to learn 📚
 - Professional game(-engine) development
-- OpenGL, maybe Vulkan
 
 ## Contact
 - Discord: brambasiel
