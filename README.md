@@ -4,7 +4,7 @@
 | Title | Description |
 | -------------- | --------- |
 | [Blasteroids!](https://play.google.com/store/apps/details?id=com.doomhowl.blasteroids) | Android mobile game written in Java using LibGDX |
-| [Vortex](https://play.google.com/store/apps/details?id=com.doomhowl.vortex) | Hypercasual mobile game written in Raylib C++20, utilizing curl and the [Pixabay API](https://pixabay.com/service/about/api/) |
+| [Vortex](https://play.google.com/store/apps/details?id=com.doomhowl.vortex) | Hypercasual Android mobile game written in C++20 using Raylib, curl and the [Pixabay API](https://pixabay.com/service/about/api/) |
 
 ## Familiar languages
 - C++
