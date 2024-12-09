@@ -32,7 +32,7 @@
         <a href="#"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c++.svg" alt="c++" height="50" width="50" /></a>
         <a href="#"><img src="https://www.raylib.com/common/img/raylib_logo.png" alt="raylib" height="50" width="50" /></a><br/>
         <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Curl-logo.svg" alt="curl" height="20" width="auto" /></a>
-        <a href="https://pixabay.com/service/about/api/">
+        <a href="#">
           <img src="https://cdn.worldvectorlogo.com/logos/pixabay.svg" alt="Pixabay API" height="50" width="50" />
         </a>
       </td>
@@ -102,10 +102,10 @@
       Emacs host
     </th>
     <td>
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" height="50" width="50" /></a>
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg" alt="MacOS" height="50" width="auto" /></a>
-      <a href="#"><img src="https://seeklogo.com/images/D/debian-logo-C136FDAF9E-seeklogo.com.png" alt="Debian" height="50" width="auto" /></a>
-      <a href="https://nixos.org/"><img src="https://static-00.iconduck.com/assets.00/nixos-icon-1024x889-h69qc7j9.png" alt="NixOS" height="50" width="auto"/></a>
+      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" title="Windows" height="50" width="50" /></a>
+      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg" alt="MacOS" title="MacOS" height="50" width="auto" /></a>
+      <a href="#"><img src="https://seeklogo.com/images/D/debian-logo-C136FDAF9E-seeklogo.com.png" alt="Debian" title="Debian" height="50" width="auto" /></a>
+      <a href="#"><img src="https://static-00.iconduck.com/assets.00/nixos-icon-1024x889-h69qc7j9.png" alt="NixOS" title="NixOS" height="50" width="auto"/></a>
     </td>
   </tr>
 </table>
