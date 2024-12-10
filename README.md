@@ -112,4 +112,4 @@
 
 ## Contact
 Discord: brambasiel<br>
-Email: doomhowl(dot)interactive@gmail(dot)com
+Email: brambasiel@telenet.be
