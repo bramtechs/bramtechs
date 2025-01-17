@@ -102,7 +102,7 @@
       Emacs host
     </th>
     <td>
-      <a href="#"><img src="https://www.interstroom.nl/wp-content/uploads/2021/05/Proxmox-logo-stacked-840px.png" alt="Proxmox" title="Proxmox" height="50" width="50" /></a>
+      <a href="#"><img src="imgs/proxmox.png" alt="Proxmox" title="Proxmox" height="50" width="auto" /></a>
       <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" title="Windows" height="50" width="50" /></a>
       <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg" alt="MacOS" title="MacOS" height="50" width="auto" /></a>
       <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/121px-Debian-OpenLogo.svg.png" alt="Debian" title="Debian" height="50" width="auto" /></a>
