@@ -3,6 +3,8 @@
 I am an independent mobile game developer that loves using lower level technologies and programming languages,
 striving for speed, efficiency and deep understanding of the underlying system.
 
+_"If we never dared to reinvent the wheel, we would still be riding horse carriages."_
+
 ## Portfolio
 
 <table>
@@ -121,7 +123,3 @@ striving for speed, efficiency and deep understanding of the underlying system.
 
 Discord: brambasiel<br>
 Email: brambasiel@telenet.be
-
----
-
-_"If we never dared to reinvent the wheel, we would still be riding horse carriages."_
