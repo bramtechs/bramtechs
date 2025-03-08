@@ -55,7 +55,7 @@ _"If we never dared to reinvent the wheel, we would still be riding horse carria
         <a href="#"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c++.svg" alt="c++" height="50" width="50" /></a>
         <!--<a href="#"><img src="https://doomhowl-interactive.com/favicon.ico" alt="In-house engine 'Howling'" title="In-house game engine 'Howling'" height="50" width="auto" /></a><br/>-->
         <!--<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="OpenGL" height="25" width="auto" /></a>-->
-        <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/900px-Lua-Logo.svg.png?20150107024942" width="50" height="50"></a><br/>
+        <!--<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/900px-Lua-Logo.svg.png?20150107024942" width="50" height="50"></a><br/>-->
         <a href="#"><img src="https://www.raylib.com/common/img/raylib_logo.png" alt="raylib" height="50" width="50" /></a>
       </td>
       <td>
