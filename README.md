@@ -89,8 +89,8 @@ _"If we never dared to reinvent the wheel, we would still be riding horse carria
       Frameworks  
     </th>
     <td>
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" width="50" /></a>
       <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular" height="50" width="50" /></a>
+      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" width="50" /></a>
       <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="50" width="50" /></a>
     </td>
   </tr>
