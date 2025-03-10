@@ -86,35 +86,13 @@ _"If we never dared to reinvent the wheel, we would still be riding horse carria
   </tr>
   <tr>
     <th>
-      Frameworks  
+      Web
     </th>
     <td>
       <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular" height="50" width="50" /></a>
       <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" width="50" /></a>
+      <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" height="50" width="auto" /></a>
       <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="50" width="50" /></a>
-    </td>
-  </tr>
-  <tr>
-    <th>
-      Editors
-    </th>
-    <td>
-      <a href="#"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/text%20editors/vscode.svg" alt="Vscode" height="50" width="50"/></a>
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual Studio" height="50" width="50"/></a>
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="GNU Emacs" height="50" width="50"/></a>
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="Android Studio" height="50" width="50"/></a>
-    </td>
-  </tr>
-  <tr>
-    <th>
-      OS
-    </th>
-    <td>
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" title="Windows" height="30" width="30" /></a>
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg" alt="MacOS" title="MacOS" height="30" width="auto" /></a>
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" alt="Ubuntu" title="Ubuntu" height="30" width="auto" /></a>
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/121px-Debian-OpenLogo.svg.png" alt="Debian" title="Debian" height="30" width="auto" /></a>
-      <a href="#"><img src="imgs/proxmox.png" alt="Proxmox" title="Proxmox" height="30" width="auto" /></a>
     </td>
   </tr>
 </table>
