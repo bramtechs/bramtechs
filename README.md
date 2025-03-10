@@ -89,10 +89,10 @@ _"If we never dared to reinvent the wheel, we would still be riding horse carria
       Web
     </th>
     <td>
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular" height="50" width="50" /></a>
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" width="50" /></a>
-      <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" height="50" width="auto" /></a>
-      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="50" width="50" /></a>
+      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular" height="40" width="40" /></a>
+      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="40" width="40" /></a>
+      <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node.js" height="40" width="40" /></a>
+      <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="40" width="40" /></a>
     </td>
   </tr>
 </table>
