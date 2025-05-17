@@ -55,12 +55,10 @@ _"If we never dared to reinvent the wheel, we would still be riding horse carria
       <td>
         <img src="imgs/cpp.svg" alt="C++ programming language" title="C++ programming language" height="50" width="50" />
         <img src="imgs/raylib.png" alt="raylib game framework" title="raylib game framework" height="50" width="50" />
-        <img src="imgs/python.svg" alt="Python programming language" title="Python programming language" height="50" width="50" />
         <img src="imgs/typescript.png" alt="TypeScript programming language" title="TypeScript programming language" height="50" width="50" />
         <img src="imgs/angular.png" alt="Angular framework" title="Angular framework" height="50" width="50" />
         <img src="imgs/express.png" alt="Node.js runtime" title="Node.js runtime" height="50" width="50" />
         <img src="imgs/socketio.svg" alt="Socket.IO library" title="Socket.IO library" height="50" width="50" />
-        <img src="imgs/cloudrun.png" alt="Google Cloud Run" title="Google Cloud Run" height="50" width="50" />
       </td>
       <td>
         <img src="imgs/android.svg" alt="Android platform" title="Android platform" height="50" width="50" />
