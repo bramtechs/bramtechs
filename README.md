@@ -90,6 +90,11 @@ _"If we never dared to reinvent the wheel, we would still be riding horse carria
   </tr>
 </table>
 
+## Gamedev commit graph
+
+![](https://raw.githubusercontent.com/bramtechs/commitchart/refs/heads/main/dark.png#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/bramtechs/commitchart/refs/heads/main/light.png#gh-light-mode-only)
+
 ## Links
 
 <img src="imgs/youtube.png" alt="YouTube" title="YouTube" height="30" width="30" /> [Youtube](https://www.youtube.com/@brambasiel)<br/>
