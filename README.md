@@ -90,7 +90,7 @@ _"If we never dared to reinvent the wheel, we would still be riding horse carria
   </tr>
 </table>
 
-## Gamedev commit graph
+## Gamedev commit chart
 
 ![](https://git.doomhowl-interactive.com/commitchart/2025.png?darkMode=true#gh-dark-mode-only)
 ![](https://git.doomhowl-interactive.com/commitchart/2025.png?darkMode=false#gh-light-mode-only)
