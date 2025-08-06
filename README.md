@@ -90,7 +90,7 @@ _"If we never dared to reinvent the wheel, we would still be riding horse carria
   </tr>
 </table>
 
-## Gamedev commit graph
+## Gamedev commit chart
 
 ![](https://raw.githubusercontent.com/bramtechs/commitchart/refs/heads/main/dark.png#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/bramtechs/commitchart/refs/heads/main/light.png#gh-light-mode-only)
