@@ -92,8 +92,14 @@ _"If we never dared to reinvent the wheel, we would still be riding horse carria
 
 ## Gamedev commit graph
 
-![](https://raw.githubusercontent.com/bramtechs/commitchart/refs/heads/main/dark.png#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/bramtechs/commitchart/refs/heads/main/light.png#gh-light-mode-only)
+![](https://git.doomhowl-interactive.com/commitchart/2025.png?darkMode=true#gh-dark-mode-only)
+![](https://git.doomhowl-interactive.com/commitchart/2025.png?darkMode=false#gh-light-mode-only)
+
+<details>
+  <summary>2024</summary>
+  ![](https://git.doomhowl-interactive.com/commitchart/2024.png?darkMode=true#gh-dark-mode-only)
+  ![](https://git.doomhowl-interactive.com/commitchart/2024.png?darkMode=false#gh-light-mode-only)
+</details>
 
 ## Links
 
