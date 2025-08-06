@@ -93,15 +93,15 @@ _"If we never dared to reinvent the wheel, we would still be riding horse carria
 ## Gamedev commit chart
 
 <picture>
-  <source srcset="https://git.doomhowl-interactive.com/commitchart/2025.png" media="(prefers-color-scheme: dark)">
-  <img src="https://git.doomhowl-interactive.com/commitchart/2025.png" alt="2025 Commit Chart">
+  <source srcset="https://git.doomhowl-interactive.com/commitchart/2025.png?darkMode=true" media="(prefers-color-scheme: dark)">
+  <img src="https://git.doomhowl-interactive.com/commitchart/2025.png?darkMode=false" alt="2025 Commit Chart">
 </picture>
 
 <details>
   <summary>2024</summary>
   <picture>
-    <source srcset="https://git.doomhowl-interactive.com/commitchart/2024.png" media="(prefers-color-scheme: dark)">
-    <img src="https://git.doomhowl-interactive.com/commitchart/2024.png" alt="2024 Commit Chart">
+    <source srcset="https://git.doomhowl-interactive.com/commitchart/2024.png?darkMode=true" media="(prefers-color-scheme: dark)">
+    <img src="https://git.doomhowl-interactive.com/commitchart/2024.png?darkMode=false" alt="2024 Commit Chart">
   </picture>
 </details>
 
