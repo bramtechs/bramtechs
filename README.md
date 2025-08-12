@@ -3,8 +3,6 @@
 I am an independent software and mobile game developer that loves high expressibility using lower level programming languages,
 striving for speed and efficiency with deep understanding of the underlying system.
 
-_"If we never dared to reinvent the wheel, we would still be riding horse carriages."_
-
 ## Portfolio
 
 <table _ngcontent-ng-c3145346199="" id="portfolioTable" style="width: 100%;"><thead _ngcontent-ng-c3145346199=""><tr _ngcontent-ng-c3145346199=""><th _ngcontent-ng-c3145346199="">Title</th><th _ngcontent-ng-c3145346199="">Description</th><th _ngcontent-ng-c3145346199="">Tech</th><th _ngcontent-ng-c3145346199="">Platform</th><th _ngcontent-ng-c3145346199="">Year</th></tr></thead><tbody _ngcontent-ng-c3145346199=""><tr _ngcontent-ng-c3145346199=""><td _ngcontent-ng-c3145346199=""><p _ngcontent-ng-c3145346199="">Space Typer</p><!--bindings={
