@@ -1,4 +1,4 @@
-# 🐺🌕 Hello world!
+# Hello world!
 
 I am an independent software and mobile game developer that loves high expressibility using lower level programming languages,
 striving for speed and efficiency with deep understanding of the underlying system.
