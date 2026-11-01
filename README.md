@@ -17,7 +17,7 @@ striving for speed and efficiency with deep understanding of the underlying syst
   "ng-reflect-ng-for-of": "[object Object],[object Object"
 }--></td><td _ngcontent-ng-c3145346199=""><!--bindings={
   "ng-reflect-ng-for-of": ""
-}--></td><td _ngcontent-ng-c3145346199="">Soon™</td></tr><tr _ngcontent-ng-c3145346199=""><td _ngcontent-ng-c3145346199=""><p _ngcontent-ng-c3145346199="">Vortex</p><a _ngcontent-ng-c3145346199="" target="_blank" href="https://play.google.com/store/apps/details?id=com.doomhowl.vortex"><img _ngcontent-ng-c3145346199="" width="50" height="50" draggable="false" src="https://doomhowl-interactive.com/assets/icons/vortex.webp" alt="Vortex" title="Vortex"><!--bindings={
+}--></td><td _ngcontent-ng-c3145346199="">Soon™</td></tr><tr _ngcontent-ng-c3145346199=""><td _ngcontent-ng-c3145346199=""><p _ngcontent-ng-c3145346199="">Vortex</p><a _ngcontent-ng-c3145346199="" target="_blank" href="https://play.google.com/store/apps/details?id=com.doomhowl.vortex"><img _ngcontent-ng-c3145346199="" width="50" height="50" draggable="false" src="imgs/vortex.webp" alt="Vortex" title="Vortex"><!--bindings={
   "ng-reflect-ng-if": "https://doomhowl-interactive.c"
 }--></a><!--bindings={
   "ng-reflect-ng-if": "true"
@@ -35,7 +35,7 @@ striving for speed and efficiency with deep understanding of the underlying syst
   "ng-reflect-ng-for-of": "[object Object],[object Object"
 }--></td><td _ngcontent-ng-c3145346199=""><a _ngcontent-ng-c3145346199="" target="_blank" href="https://play.google.com/store/apps/details?id=com.doomhowl.vortex" title="Google Play"><img _ngcontent-ng-c3145346199="" style="width: auto; height: 50px; display: inline; padding: 5px;" src="https://www.svgrepo.com/show/452223/google-play.svg" alt="Google Play" title="Google Play"></a><!--bindings={
   "ng-reflect-ng-for-of": "[object Object]"
-}--></td><td _ngcontent-ng-c3145346199="">2024</td></tr><tr _ngcontent-ng-c3145346199=""><td _ngcontent-ng-c3145346199=""><p _ngcontent-ng-c3145346199="">Blasteroids!</p><a _ngcontent-ng-c3145346199="" target="_blank" href="https://play.google.com/store/apps/details?id=com.doomhowl.blasteroids"><img _ngcontent-ng-c3145346199="" width="50" height="50" draggable="false" src="https://doomhowl-interactive.com/assets/icons/blasteroids.png" alt="Blasteroids!" title="Blasteroids!"><!--bindings={
+}--></td><td _ngcontent-ng-c3145346199="">2024</td></tr><tr _ngcontent-ng-c3145346199=""><td _ngcontent-ng-c3145346199=""><p _ngcontent-ng-c3145346199="">Blasteroids!</p><a _ngcontent-ng-c3145346199="" target="_blank" href="https://play.google.com/store/apps/details?id=com.doomhowl.blasteroids"><img _ngcontent-ng-c3145346199="" width="50" height="50" draggable="false" src="imgs/blasteroids.png" alt="Blasteroids!" title="Blasteroids!"><!--bindings={
   "ng-reflect-ng-if": "https://doomhowl-interactive.c"
 }--></a><!--bindings={
   "ng-reflect-ng-if": "true"
