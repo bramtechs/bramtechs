@@ -37,7 +37,7 @@ I am an independent software and mobile game developer.
       </td>
       <td>
         <a target="_blank" href="https://play.google.com/store/apps/details?id=com.doomhowl.typer" title="Google Play">
-          <img style="width: auto; height: 50px; display: inline; padding: 5px" src="https://www.svgrepo.com/show/452223/google-play.svg" alt="Google Play" title="Google Play" />
+          <img style="width: auto; height: 50px; display: inline; padding: 5px" src="imgs/google_play.svg" alt="Google Play" title="Google Play" />
         </a>
       </td>
       <td>2025</td>
@@ -74,7 +74,7 @@ I am an independent software and mobile game developer.
         <a target="_blank" href="https://play.google.com/store/apps/details?id=com.doomhowl.vortex" title="Google Play"
           ><img
             style="width: auto; height: 50px; display: inline; padding: 5px"
-            src="https://www.svgrepo.com/show/452223/google-play.svg"
+            src="imgs/google_play.svg"
             alt="Google Play"
             title="Google Play"
         /></a>
@@ -116,7 +116,7 @@ I am an independent software and mobile game developer.
           title="Google Play"
           ><img
             style="width: auto; height: 50px; display: inline; padding: 5px"
-            src="https://www.svgrepo.com/show/452223/google-play.svg"
+            src="imgs/google_play.svg"
             alt="Google Play"
             title="Google Play" /></a
         ><a
