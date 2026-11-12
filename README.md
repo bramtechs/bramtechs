@@ -24,20 +24,20 @@ I am an independent software and mobile game developer.
       <td>
         <img
           style="width: auto; height: 50px; display: inline; padding: 5px"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
+          src="imgs/kotlin.svg"
           alt="Kotlin"
           title="Kotlin"
         /><a target="_blank" href="https://libgdx.com/"
           ><img
             style="width: auto; height: 50px; display: inline; padding: 5px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/libgdx/libgdx-original.svg"
+            src="imgs/libgdx.png"
             alt="LibGDX"
             title="LibGDX"
         /></a>
       </td>
       <td>
         <a target="_blank" href="https://play.google.com/store/apps/details?id=com.doomhowl.typer" title="Google Play">
-          <img style="width: auto; height: 50px; display: inline; padding: 5px" src="https://www.svgrepo.com/show/452223/google-play.svg" alt="Google Play" title="Google Play" />
+          <img style="width: auto; height: 50px; display: inline; padding: 5px" src="imgs/google_play.svg" alt="Google Play" title="Google Play" />
         </a>
       </td>
       <td>2025</td>
@@ -53,19 +53,19 @@ I am an independent software and mobile game developer.
       <td>
         <img
           style="width: auto; height: 50px; display: inline; padding: 5px"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+          src="imgs/cpp.svg"
           alt="C++20"
           title="C++20"
         /><a target="_blank" href="https://raylib.com"
           ><img
             style="width: auto; height: 50px; display: inline; padding: 5px"
-            src="https://www.raylib.com/common/img/raylib_logo.png"
+            src="imgs/raylib.png"
             alt="Raylib"
             title="Raylib" /></a
         ><a target="_blank" href="https://pixabay.com/service/about/api/"
           ><img
             style="width: auto; height: 50px; display: inline; padding: 5px"
-            src="https://raw.githubusercontent.com/bramtechs/bramtechs/master/imgs/pixabay.svg"
+            src="imgs/pixabay.svg"
             alt="Pixabay API"
             title="Pixabay API"
         /></a>
@@ -74,7 +74,7 @@ I am an independent software and mobile game developer.
         <a target="_blank" href="https://play.google.com/store/apps/details?id=com.doomhowl.vortex" title="Google Play"
           ><img
             style="width: auto; height: 50px; display: inline; padding: 5px"
-            src="https://www.svgrepo.com/show/452223/google-play.svg"
+            src="imgs/google_play.svg"
             alt="Google Play"
             title="Google Play"
         /></a>
@@ -98,13 +98,13 @@ I am an independent software and mobile game developer.
       <td>
         <img
           style="width: auto; height: 50px; display: inline; padding: 5px"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+          src="imgs/java.svg"
           alt="Java"
           title="Java"
         /><a target="_blank" href="https://libgdx.com/"
           ><img
             style="width: auto; height: 50px; display: inline; padding: 5px"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/libgdx/libgdx-original.svg"
+            src="imgs/libgdx.png"
             alt="LibGDX"
             title="LibGDX"
         /></a>
@@ -116,7 +116,7 @@ I am an independent software and mobile game developer.
           title="Google Play"
           ><img
             style="width: auto; height: 50px; display: inline; padding: 5px"
-            src="https://www.svgrepo.com/show/452223/google-play.svg"
+            src="imgs/google_play.svg"
             alt="Google Play"
             title="Google Play" /></a
         ><a
@@ -125,13 +125,13 @@ I am an independent software and mobile game developer.
           title="Chrome Web Store"
           ><img
             style="width: auto; height: 50px; display: inline; padding: 5px"
-            src="https://news.thewindowsclub.com/wp-content/uploads/2020/05/Chrome-Web-Store-Spam.jpg"
+            src="imgs/chrome-store.svg"
             alt="Chrome Web Store"
             title="Chrome Web Store" /></a
         ><a target="_blank" href="https://blasteroids.doomhowl-interactive.com" title="Browser"
           ><img
             style="width: auto; height: 50px; display: inline; padding: 5px"
-            src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg"
+            src="imgs/globe.svg"
             alt="Browser"
             title="Browser"
         /></a>
